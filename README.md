@@ -22,3 +22,9 @@ Project source can be downloaded from https://haltu.github.io/muuri/
 * Fast animations
 * Fully open source
 ```
+# KeystoneJS
+A node.js CMS and Web Application Framework.
+----
+The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
+
+Project source: https://github.com/keystonejs/keystone
